@@ -1,6 +1,12 @@
-# App - Exceljs
-
+# Notas
 Ejemplo de angular con exceljs
+
+npm install --save exceljs@1.12.0
+npm install --save file-saver
+tsconfig.json
+...
+
+# Angular - Exceljs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
